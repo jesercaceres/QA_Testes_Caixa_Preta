@@ -15,8 +15,8 @@ Para a produção e execução dos testes, utilizei o software [Selenium WebDriv
 
 Arquivos no repositório:
 
-- `test_login.py`: script de teste para login.
-- `requirements.txt`: dependências do Python para serem instaladas.
+- `Facebook LOGIN Testes.side`: Arquivo contendo testes para abrir no Selenium.
+- `Caixa preta, Facebook.xlsx`: Planilha com cada cenário de teste detalhado.
 
 ## Instalação
 
