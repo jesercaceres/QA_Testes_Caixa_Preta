@@ -22,7 +22,7 @@ Arquivos no repositório:
 
 Para executar os testes, você precisa instalar o Selenium e acessa-lo pelo Chrome. 
 
-1. Instalação Selenium [Selenium](https://chromewebstore.google.com/?hl=pt-BR)
+1. Instalação [Selenium](https://chromewebstore.google.com/?hl=pt-BR)
 
 ## Executando os Testes
 
@@ -39,7 +39,7 @@ Os testes realizados na tela de login cobriram diversos cenários cruciais. List
 
 ## Registro de teste
 
-Insira o link do vídeo gravado para atividade;
+[Vídeo Teste de Caixa Preta - Facebook](https://youtu.be/DwBUts8UAXU)
 
 ## Autor
 
